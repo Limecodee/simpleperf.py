@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Simpleperf.iml" filepath="$PROJECT_DIR$/.idea/Simpleperf.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../pythonOblig/.idea/pythonOblig.iml" filepath="$PROJECT_DIR$/../pythonOblig/.idea/pythonOblig.iml" />
     </modules>
   </component>
 </project>
